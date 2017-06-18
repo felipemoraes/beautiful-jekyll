@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Felipe Moraes, PhD Student
+title: @femoraesg, PhD Student
 
 # Short description of your site
 description: Felipe Moraes - PhD Student in Information Retrieval at Delft University of Technology.
@@ -43,9 +43,9 @@ avatar: "/img/avatar-icon.jpg"
 author:
   name: Felipe Moraes
   email: "f.moraes@tudelft.nl"
-  facebook: moraesfelipe  # eg. daattali
-  github: felipemoraes    # eg. daattali
   twitter: femoraesg   # eg. daattali
+  github: felipemoraes    # eg. daattali
+  facebook: moraesfelipe  # eg. daattali
   linkedin: fmoraes0  # eg. daattali
 
 # Select which links to show in the footer
