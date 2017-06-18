@@ -1,6 +1,6 @@
 # felipemorae.github.io
 
-> *Copyright 2016 [Dean Attali](http://deanattali.com). Licensed under the MIT license.*
+> *Copyright 2016 [Felipe Moraes](http://fmoraes.nl). Licensed under the MIT license.*
 
 Felipe Moraes' website [http://fmoraes.nl](http://fmoraes.nl)
 
