@@ -1,13 +1,8 @@
 ---
 layout: page
-title: Felipe Moraes
+title: PhD Student
 subtitle: Delft University of Technology
 published: true
----
----
-layout: page
-title: Felipe Moraes
-subtitle: Delft University of Technology
 ---
 
 I am a PhD Student in Information Retrieval in the [Web Information System](wis.ewi.tudelft.nl) group at the [Delft University of Technology](tudelft.nl) under the supervision of [Claudia Hauff](chauff.github.io). I hold BSc and MSc degree in Computer Science (supervised by [Rodrygo Santos](www.dcc.ufmg.br/~rodrygo)) from the [Federal University of Minas Gerais (UFMG)](ufmg.br). 
