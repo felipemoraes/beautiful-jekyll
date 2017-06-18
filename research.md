@@ -1,3 +1,8 @@
+----
+layout: page
+title: Research
+published: true
+----
 I am always interested to collaborate and to discuss topics in the area of information retrieval. Feel free to contact me on opportunities.
 
 My research interests include:
