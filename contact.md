@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Contact
+published: true
+---
 ```
 Delft University of Technology - EWI/SCT/WIS
 PO Box 5031
