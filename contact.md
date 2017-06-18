@@ -1,4 +1,3 @@
-## Contact
 
 ```
 Delft University of Technology - EWI/SCT/WIS
