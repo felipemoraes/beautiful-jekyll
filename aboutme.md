@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+
 ---
+I am a PhD candidate in Information Retrieval in the Web Information System group at the Delft University of Technology under the supervision of Claudia Hauff. I hold BSc and MSc degree in Computer Science (supervised by Rodrygo Santos) from the Federal University of Minas Gerais (UFMG). I was a Mitacs Globalink research intern in 2014 at the Université de Québec à Montréal (UQAM) and visiting researcher at the Visualization and Data Analysis Laboratory (ViDA) of the New York University.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
