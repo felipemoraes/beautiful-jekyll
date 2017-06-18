@@ -1,3 +1,8 @@
+---
+layout: page
+title: Publications
+published: true
+---
 <h2><b>2017</b></h2>
 <ul>
  	<li>Felipe Moraes, Rodrygo L.T. Santos, and Nivio Ziviani. On Effective Dynamic Search in Specialized Domains. In <em>Proceedings of the 3rd ACM International Conference on the Theory of Information Retrieval</em>, Amsterdam, The Netherlands, 2017. [<a>pdf</a>]</li>
