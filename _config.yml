@@ -23,7 +23,8 @@ description: Felipe Moraes - PhD Student in Information Retrieval at Delft Unive
 
 # List of links in the navigation bar
 navbar-links:
-  PUBLICATIONS: publications
+  PUBLICATIONS: "publications"
+  RESEARCH: "research"
   BLOG: "blog"
   CONTACT: "contact"
 
