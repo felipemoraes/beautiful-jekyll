@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact
+published: true
+---
+
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
