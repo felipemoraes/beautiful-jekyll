@@ -3,6 +3,7 @@ layout: page
 title: PhD Student
 subtitle: Delft University of Technology
 published: true
+meta-title: "Felipe Moraes - PhD Student"
 ---
 
 I am a PhD Student in Information Retrieval in the [Web Information System](http://wis.ewi.tudelft.nl) group at the [Delft University of Technology](http://tudelft.nl) under the supervision of [Claudia Hauff](http://chauff.github.io). I hold BSc and MSc degree in Computer Science (supervised by [Rodrygo Santos](http://www.dcc.ufmg.br/~rodrygo)) from the [Federal University of Minas Gerais (UFMG)](http://ufmg.br). I was a Mitacs Globalink research intern in 2014 at the [Université de Québec à Montréal (UQAM)](http://uqam.ca) and visiting researcher at the [Visualization and Data Analysis Laboratory (ViDA)](http://vida-nyu.github.io/) of the [New York University](http://nyu.edu).
