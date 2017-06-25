@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: ' On Effective Dynamic Search Systems in Specialized Domains'
 published: false
 ---
 ## On Effective Dynamic Search Systems in Specialized Domains
