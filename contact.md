@@ -11,7 +11,7 @@ I am a PhD Student in Information Retrieval at the [Delft University of Technolo
 
 ### Education
 
-* PhD in Information Retrieval, [Delft University of Technology](http://tudelft.nl), Amsterdam, The Netherlands, May 2017 - Present
+* PhD in Information Retrieval, [Delft University of Technology](http://tudelft.nl), Delft, The Netherlands, May 2017 - Present
     * Research Topic: "Large-Scale Collaborative Search and Sensemaking" under supervision of [Claudia Hauff](http://chauff.github.io).
 * MSc in Computer Science, [Federal University of Minas Gerais (UFMG)](http://ufmg.br), Belo Horizonte, Brazil, Aug 2015 - Apr 2017
     * MSc thesis: ["On Effective Dynamic Search Systems"](https://www.dcc.ufmg.br/pos/cursos/defesas/2069M.PDF), under supervision of [Rodrygo Santos](http://www.dcc.ufmg.br/~rodrygo), and co-supervision of  [Nivio Ziviani](http://www.dcc.ufmg.br/~nivio)
