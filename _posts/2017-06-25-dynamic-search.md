@@ -77,7 +77,7 @@ To address **Q2**, we analyzed the contribution of an accurate modeling of the m
 
 > **H3**. The effectiveness of a dynamic search system can be hindered by an inaccurate or incomplete aspect modeling.
 
-We performed two different simulations, one mishandling feedback on individual passages, and other mishandling aspects. In the figure below shows the impact on dynamic search effectiveness in terms of ACT@10 for DPHF, DPHF+xQuAD, and DPHF+PM2 as we increase the probability of perturbing the underlying aspect model:
+We performed two different simulations, one mishandling feedback on individual passages, and other mishandling aspects. The figures below show the impact on dynamic search effectiveness in terms of ACT@10 for DPHF, DPHF+xQuAD, and DPHF+PM2 as we increase the probability of perturbing the underlying aspect model:
 
 
 :-------------------------:|:-------------------------:
