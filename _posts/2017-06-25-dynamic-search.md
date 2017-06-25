@@ -49,7 +49,7 @@ Flow diagram of a typical dynamic search system            |
 To study the impact of each of these components above, we used the following reference components:
 
 - Baseline ranker: we generated a variety of candidate samples **R** by perturbing a reference ranking produced by a field-based weighting mode. In particular, we use a field-based extension of [DPH](https://art.torvergata.it/retrieve/handle/2108/33648/85364/trec2008.pdf) (henceforth “DPHF”). You can find my implementation of DPH for Lucene [here](https://github.com/felipemoraes/DPH-for-Lucene).
-- Aspect modeling: we represented each aspect **a** as an aggregate of the relevant passages associated with it, with the content of each passage **p** weighted by its corresponding relevance grade **g**. To study 
+- Aspect modeling: we represented each aspect **a** as an aggregate of the relevant passages associated with it, with the content of each passage **p** weighted by its corresponding relevance grade **g**. 
 - Dynamic reranker:  we take two state-of-the-art diversification models: [xQuAD](http://dl.acm.org/citation.cfm?id=1772780) and [PM2](http://dl.acm.org/citation.cfm?id=2348296). In line with the goal of dynamic search, these models a empt to satisfy as many query aspects as possible (**promoting diversity**) and as early as possible (**promoting novelty**).
 
 We have four research questions in this paper:
