@@ -110,5 +110,5 @@ Briefly, we described several properties that dynamic search systems must cope w
 - There is a need for accurately estimating the coverage of each retrieved document with respect to each query aspect, particularly for queries with fewer aspects, which seem inherently harder to improve. 
 - Early stopping strategies achieve a better gain-effort trade-off compared to late stopping strategies, which highlights the challenge of promoting effective exploration in this task.
 
-For more details about the results and analysis, stay tuned for our pre-print, or you can preview the paper in my [Master thesis](https://www.dcc.ufmg.br/pos/cursos/defesas/2069M.PDF). Or better, see you in Amsterdam in my presentation! Bedankt en tot ziens!
+For more details about the results and analysis, stay tuned for our pre-print, or you can preview the paper in my [Master thesis](https://www.dcc.ufmg.br/pos/cursos/defesas/2069M.PDF). Or better, see you in Amsterdam in my presentation! Dank u wel en tot ziens!
 
