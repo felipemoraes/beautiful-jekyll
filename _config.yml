@@ -23,10 +23,10 @@ description: Felipe Moraes - PhD Student in Information Retrieval at Delft Unive
 
 # List of links in the navigation bar
 navbar-links:
+  BLOG: ""
   PUBLICATIONS: "publications"
   RESEARCH: "research"
-  BLOG: "blog"
-  CONTACT: "contact"
+  ABOUT ME / CONTACT: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -53,23 +53,14 @@ footer-links-active:
   facebook: true
   email: true
   twitter: true
-  google-plus: false
   github: true
-  reddit: false
   linkedin: true
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
-  telephone: false
 
 # Select which share links to show in posts
 share-links-active:
+  email: true
   twitter: true
   facebook: true
-  google: false
   linkedin: true
 
 # How to display the link to the website in the footer
@@ -103,8 +94,12 @@ title-separator: "-"
 timezone: "Europe/Amsterdam"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 3
+
+#pagination
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "/page:num"
+permalink: /:title/
 
 kramdown:
   input: GFM
@@ -117,8 +112,8 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      comments: false  # add comments to all blog posts
+      social-share: false # add social media sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
@@ -192,8 +187,7 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-gems:
-  - jekyll-paginate
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
