@@ -46,7 +46,7 @@ Then, our objective turned to understand the challenges involved in building eff
 ![Flow diagram of a typical dynamic search system ]({{site.baseurl}}/img/ds_framework.png)  |  
 Flow diagram of a typical dynamic search system            |  
 
-To study the impact of each of these components above, we used the following reference components. 
+To study the impact of each of these components above, we used the following reference components:
 
 - Baseline ranker: we generated a variety of candidate samples **R** by perturbing a reference ranking produced by a field-based weighting mode. In particular, we use a field-based extension of [DPH](https://art.torvergata.it/retrieve/handle/2108/33648/85364/trec2008.pdf) (henceforth “DPHF”). You can find my implementation of DPH for Lucene [here](https://github.com/felipemoraes/DPH-for-Lucene).
 - Aspect modeling: we represented each aspect **a** as an aggregate of the relevant passages associated with it, with the content of each passage **p** weighted by its corresponding relevance grade **g**. To study 
