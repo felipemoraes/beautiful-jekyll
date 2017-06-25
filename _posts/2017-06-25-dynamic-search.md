@@ -2,6 +2,7 @@
 layout: post
 title: ' Effectiveness of Dynamic Search Systems'
 tags: [dynamic search, search effectiveness, trec-dd, ictir2017]
+thumbnail: "../img/ds_framework.png"
 published: true
 ---
 
