@@ -67,6 +67,7 @@ We have four research questions in this paper:
  The baseline ranker component may impact the efectiveness of a dynamic search system in different moments. In particular, to address **Q1**, we showed evidenced two complementary hypotheses:
 
 > **H1**. At earlier interactions, the e ectiveness of the system is influenced by the precision attained by the baseline ranker.
+
 > **H2**. At later interactions, the e ectiveness of the system is influenced by the recall attained by the baseline ranker.
 
 
