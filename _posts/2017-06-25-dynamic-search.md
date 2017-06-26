@@ -6,7 +6,7 @@ thumbnail: "../img/ds_framework.png"
 published: true
 ---
 
-Research on exploratory search has been supported by several initiatives. The **T**ext **RE**trieval **C**onference (TREC) has hosted related research tracks on [interactive](http://trec.nist.gov/data/interactive.html) search, search within [sessions](http://trec.nist.gov/data/session.html), search for [task completion](http://trec.nist.gov/data/tasks.html) and, more recently, dynamic search in specialized domains. The latter problem, embodied by the [TREC Dynamic Domain (DD)](http://trec-dd.org/) track, was the focus of my Master supervised by [Rodrygo Santos](http://homepages.dcc.ufmg.br/~rodrygo/). As a result of this work, we got a full paper accepted at ICTIR 2017.
+Research on exploratory search has been supported by several initiatives. The **T**ext **RE**trieval **C**onference (TREC) has hosted related research tracks on [interactive](http://trec.nist.gov/data/interactive.html) search, search within [sessions](http://trec.nist.gov/data/session.html), search for [task completion](http://trec.nist.gov/data/tasks.html) and, more recently, dynamic search in specialized domains. The latter problem, embodied by the [TREC Dynamic Domain (DD)](http://trec-dd.org/) track, was the focus of my Master's thesis, supervised by [Rodrygo Santos](http://homepages.dcc.ufmg.br/~rodrygo/). As a result of this work, we got a full paper accepted at ICTIR 2017.
 
 ```bibtex
 @inproceedings{moraes2017ictir-a,
@@ -27,48 +27,48 @@ _Given an initial query, a dynamic search system must improve its understanding 
 A dynamic search system must cope with four key problems: 
 
 1. produce an initial sample of candidate documents given the user’s query and the domain of interest; 
-2. decide whether the user’s information need has been satis ed and eventually stop the interactive process; 
+2. decide whether the user’s information need has been satisfied and eventually stop the interactive process; 
 3. leverage the user’s feedback to learn an improved aspect model;
 4. produce an enhanced ranking given the learned aspect model.
 
 
-In the beginning of my Master, we faced this problem as group participant of the TREC DD 2016. In total, we submitted five runs with different approaches, and in our paper report [UFMG at the TREC 2016 Dynamic Domain track](http://trec.nist.gov/pubs/trec25/papers/ufmg-DD.pdf), we presented results for additional unofficial runs.
+In the beginning of my Master's, we tackled this problem as a participant group of the TREC DD 2016. In total, we submitted five runs with different approaches, and in our notebook paper [UFMG at the TREC 2016 Dynamic Domain track](http://trec.nist.gov/pubs/trec25/papers/ufmg-DD.pdf), we presented results for additional unofficial runs.
 
-After our participation, we noticed that even the reportedly most effective system in each domain have shown only marginal improvements compared to vanilla ad-hoc search baselines, which leverage no user feedback, as shown in the plots below:
+After our participation, we noticed that even the reportedly most effective system in each of the five domains of interest have shown only marginal improvements compared to vanilla ad-hoc search baselines, which leverage no user feedback, as shown in the plots below:
 
 Ebola domain            |  Polar domain
 :-------------------------:|:-------------------------:
 ![Ebola 2016]({{site.baseurl}}/img/TREC_Best_ebola16.png)  |  ![Polar]({{site.baseurl}}/img/TREC_Best_polar.png) 
 
-Then, our objective turned to understand the challenges involved in building effective dynamic search systems. To this end, we isolated each of the aforementioned problems as a separate component of a dynamic search system as shown in figure below:
+Then, our objective turned to understanding the challenges involved in building effective dynamic search systems. To this end, we isolated each of the aforementioned problems as a separate component of a dynamic search system as shown in the figure below:
 
 
 :-------------------------:|
 ![Flow diagram of a typical dynamic search system ]({{site.baseurl}}/img/ds_framework.png)  |  
 Flow diagram of a typical dynamic search system            |  
 
-To study the impact of each of these components above, we used the following reference components:
+To study the impact of each of these components, we experimented with the following instantiations:
 
-- Baseline ranker: we generated a variety of candidate samples **R** by perturbing a reference ranking produced by a field-based weighting mode. In particular, we use a field-based extension of [DPH](https://art.torvergata.it/retrieve/handle/2108/33648/85364/trec2008.pdf) (henceforth “DPHF”). You can find my implementation of DPH for Lucene [here](https://github.com/felipemoraes/DPH-for-Lucene).
+- Baseline ranker: we generated a variety of candidate samples **R** by perturbing a reference ranking produced by a field-based weighting model. In particular, we use a field-based extension of [DPH](https://art.torvergata.it/retrieve/handle/2108/33648/85364/trec2008.pdf) (henceforth “DPHF”). You can find my implementation of DPH for Lucene [here](https://github.com/felipemoraes/DPH-for-Lucene).
 - Aspect modeling: we represented each aspect **a** as an aggregate of the relevant passages associated with it, with the content of each passage **p** weighted by its corresponding relevance grade **g**. 
 - Dynamic reranker:  we took two state-of-the-art diversification models: [xQuAD](http://dl.acm.org/citation.cfm?id=1772780) and [PM2](http://dl.acm.org/citation.cfm?id=2348296). In line with the goal of dynamic search, these models attempt to satisfy as many query aspects as possible (**promoting diversity**) and as early as possible (**promoting novelty**).
 
 We have four research questions in this paper:
 
-- **Q1**. How does the initial document sample impacts the effectiveness of a dynamic search system?
+- **Q1**. How does the initial document sample impact the effectiveness of a dynamic search system?
 - **Q2**. What is the impact of feedback modeling on the system's knowledge of the aspects underlying the user's query?
 - **Q3**. How do improved coverage estimates impact the system's ability to dynamically adapt its ranking strategy?
 - **Q4**. What is the impact of early and late stopping strategies on the attained gain-effort trade-off?
 
- The remainder of this post I willl summarise our findings for each of the first three questions in turn. Our observations are based on ACT figures averaged across 171 queries from all five domains of the TREC 2015-2016 Dynamic Domain.
+ In the remainder of this post, I willl summarise our findings for each of the first three questions in turn. Our observations are based on [ACT](http://dl.acm.org/citation.cfm?id=2523648) figures averaged across 171 queries from all five domains of the TREC 2015-2016 Dynamic Domain.
 
 ### Q1. Baseline ranker
 
- The baseline ranker component may impact the efectiveness of a dynamic search system in different moments. In particular, to address **Q1**, we showed evidenced two complementary hypotheses:
+ The baseline ranker component may impact the efectiveness of a dynamic search system in different moments. In particular, to address **Q1**, we investigated two complementary hypotheses:
 
-> **H1**. At earlier interactions, the e ectiveness of the system is influenced by the precision attained by the baseline ranker.
+> **H1**. At earlier interactions, the effectiveness of the system is influenced by the precision attained by the baseline ranker.
 
-> **H2**. At later interactions, the e ectiveness of the system is influenced by the recall attained by the baseline ranker.
+> **H2**. At later interactions, the effectiveness of the system is influenced by the recall attained by the baseline ranker.
 
 
 ### Q2. Aspect Modeling
@@ -93,7 +93,7 @@ To address **Q3**, we proposed the following hypothesis:
 
 > **H4**. The effectiveness of a dynamic search system can be enhanced by improved document coverage estimates for a given aspect model, more so for narrower queries.
 
-We proposed above hypothesis because that coverage estimates will be key in a dynamic search scenario, particularly for narrower queries, which have a smaller number of relevant aspects and hence are arguably harder to diversify. To test this hypothesis, we simulate increasingly innacurate coverage estimates, by gradually adding noise to the perfect estimates given by the ground truth data. 
+proposed the above hypothesis because coverage estimates are key in a dynamic search scenario, particularly for narrower queries, which have a smaller number of relevant aspects and hence are arguably harder to diversify. To test this hypothesis, we simulate increasingly innacurate coverage estimates, by gradually adding noise to the perfect estimates given by the ground truth data. 
 
 In the figure below, we  first note that DHF+xQuAD and DPHF+PM2 increasingly outperform the DPHF baseline ranker as their underlying coverage estimates improve, in support of **H4**. In particular, xQuAD begins to outperform DPHF at a critical leakage (CL) point of **0.3**, measured in terms of aspect nDCG. On the other hand, PM2 requires slightly improved coverage estimates at a CL point of **0.4**.
 
@@ -103,14 +103,14 @@ In the figure below, we  first note that DHF+xQuAD and DPHF+PM2 increasingly out
 Impact of perturbed coverage estimates.            |  
 
 
-### Your take home messages:
+### Take-home messages:
 
 Briefly, we described several properties that dynamic search systems must cope with:
 
 - A high-precision baseline ranker may improve dynamic search at early interactions, whereas a high-recall baseline ranker tends to favor later interactions. 
-- Mishandling user's feedback on individual passages associated with an aspect or on entire aspects may lead to decreased e effectiveness. 
+- Mishandling the user’s feedback on individual passages associated with an aspect or on entire aspects may lead to decreased effectiveness. 
 - There is a need for accurately estimating the coverage of each retrieved document with respect to each query aspect, particularly for queries with fewer aspects, which seem inherently harder to improve. 
 - Early stopping strategies achieve a better gain-effort trade-off compared to late stopping strategies, which highlights the challenge of promoting effective exploration in this task.
 
-For more details about the results and analysis, stay tuned for our pre-print, or you can preview the paper in my [Master thesis](https://www.dcc.ufmg.br/pos/cursos/defesas/2069M.PDF). Or better, see you in Amsterdam in my presentation! Dank u wel en tot ziens!
+For more details about the results and analysis, stay tuned for our pre-print, or check out an extended version of the paper in my [Master's thesis](https://www.dcc.ufmg.br/pos/cursos/defesas/2069M.PDF). Or better, see you in Amsterdam in my presentation! Dank u wel en tot ziens!
 
