@@ -19,7 +19,7 @@ Research on exploratory search has been supported by several initiatives. The **
 }
 ```
 
-The TREC DD track has been organized by [Grace Hui Yang](http://infosense.cs.georgetown.edu/grace/) and [Ian Soboroff](https://www.nist.gov/people/ian-soboroff). In this track, the main task is sumarised as follows: 
+The TREC DD track has been organized by [Grace Hui Yang](http://infosense.cs.georgetown.edu/grace/) and [Ian Soboroff](https://www.nist.gov/people/ian-soboroff). In this track, the main task is summarized as follows: 
 
 _Given an initial query, a dynamic search system must improve its understanding of the user’s information need through a series of interactions. In each interaction, the user may provide the system with feedback on the relevance of specific passages of the retrieved documents with respect to one or more aspects underlying his or her information need. The system must then choose to either provide the user with further documents or end the interactive process. An effective system should be able to satisfy as many query aspects as possible (**to maximize user satisfaction**) with as few interactions as possible (**to minimize user effort**)._
 
@@ -60,7 +60,7 @@ We have four research questions in this paper:
 - **Q3**. How do improved coverage estimates impact the system's ability to dynamically adapt its ranking strategy?
 - **Q4**. What is the impact of early and late stopping strategies on the attained gain-effort trade-off?
 
- In the remainder of this post, I willl summarise our findings for each of the first three questions in turn. Our observations are based on [ACT](http://dl.acm.org/citation.cfm?id=2523648) figures averaged across 171 queries from all five domains of the TREC 2015-2016 Dynamic Domain.
+In the remainder of this post, I willl summarise our findings for each of the first three questions in turn. Our observations are based on [ACT](http://dl.acm.org/citation.cfm?id=2523648) figures averaged across 171 queries from all five domains of the TREC 2015-2016 Dynamic Domain.
 
 ### Q1. Baseline ranker
 
@@ -93,9 +93,9 @@ To address **Q3**, we proposed the following hypothesis:
 
 > **H4**. The effectiveness of a dynamic search system can be enhanced by improved document coverage estimates for a given aspect model, more so for narrower queries.
 
-proposed the above hypothesis because coverage estimates are key in a dynamic search scenario, particularly for narrower queries, which have a smaller number of relevant aspects and hence are arguably harder to diversify. To test this hypothesis, we simulate increasingly innacurate coverage estimates, by gradually adding noise to the perfect estimates given by the ground truth data. 
+proposed the above hypothesis because coverage estimates are key in a dynamic search scenario, particularly for narrower queries, which have a smaller number of relevant aspects and hence are arguably harder to diversify. To test this hypothesis, we simulate increasingly inaccurate coverage estimates, by gradually adding noise to the perfect estimates given by the ground truth data. 
 
-In the figure below, we  first note that DHF+xQuAD and DPHF+PM2 increasingly outperform the DPHF baseline ranker as their underlying coverage estimates improve, in support of **H4**. In particular, xQuAD begins to outperform DPHF at a critical leakage (CL) point of **0.3**, measured in terms of aspect nDCG. On the other hand, PM2 requires slightly improved coverage estimates at a CL point of **0.4**.
+In the figure below, we first note that DHF+xQuAD and DPHF+PM2 increasingly outperform the DPHF baseline ranker as their underlying coverage estimates improve, in support of **H4**. In particular, xQuAD begins to outperform DPHF at a critical leakage (CL) point of **0.3**, measured in terms of aspect nDCG. On the other hand, PM2 requires slightly improved coverage estimates at a CL point of **0.4**.
 
 
 :-------------------------:|
