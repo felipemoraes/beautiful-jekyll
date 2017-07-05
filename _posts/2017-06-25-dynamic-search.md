@@ -1,9 +1,14 @@
 ---
 layout: post
 title: ' Effectiveness of Dynamic Search Systems'
-tags: [dynamic search, search effectiveness, trec-dd, ictir2017]
-thumbnail: "../img/ds_framework.png"
+tags:
+  - dynamic search
+  - search effectiveness
+  - trec-dd
+  - ictir2017
+thumbnail: ../img/ds_framework.png
 published: true
+image: ../img/ds_framework.png
 ---
 
 Research on exploratory search has been supported by several initiatives. The **T**ext **RE**trieval **C**onference (TREC) has hosted related research tracks on [interactive](http://trec.nist.gov/data/interactive.html) search, search within [sessions](http://trec.nist.gov/data/session.html), search for [task completion](http://trec.nist.gov/data/tasks.html) and, more recently, dynamic search in specialized domains. The latter problem, embodied by the [TREC Dynamic Domain (DD)](http://trec-dd.org/) track, was the focus of my Master's thesis, supervised by [Rodrygo Santos](http://homepages.dcc.ufmg.br/~rodrygo/). As a result of this work, we got a full paper accepted at ICTIR 2017.
@@ -113,4 +118,3 @@ Briefly, we described several properties that dynamic search systems must cope w
 - Early stopping strategies achieve a better gain-effort trade-off compared to late stopping strategies, which highlights the challenge of promoting effective exploration in this task.
 
 For more details about the results and analysis, stay tuned for our pre-print, or check out an extended version of the paper in my [Master's thesis](https://www.dcc.ufmg.br/pos/cursos/defesas/2069M.PDF). Or better, see you in Amsterdam in my presentation! Dank u wel en tot ziens!
-
