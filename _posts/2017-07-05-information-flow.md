@@ -7,4 +7,13 @@ Back in 2016, I decided to take an Information Theory course at UFMG lectured by
 
 Months later, Mário and I reviewed the report and together with my Master's supervisor, Rodrygo Santos, we decide to make this modeling available to the IR community. Thus, we got this study accepted as a short paper at ICTIR 2017:
 
-
+```bibtex
+@inproceedings{moraes2017ictir-b,
+  author = {Felipe Moraes and Mário S. Alvim and Rodrygo L. T. Santos},
+  title = {Modeling Information Flow in Information Retrieval},
+  booktitle = {Proceedings of the 3rd ACM International Conference on the 
+    Theory of Information Retrieval},
+  year = {2017},
+  address = {Amsterdam, The Netherlands}
+}
+```
