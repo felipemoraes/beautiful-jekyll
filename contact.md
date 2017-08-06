@@ -31,7 +31,7 @@ I had the opportunity to study in [Belo Horizonte](http://www.nytimes.com/2007/1
 - SIGIR/ICTIR'17 - Student travel grant
 - CAPES/CNPq - Scholarship for supporting Master's degree
 - Mitacs Globalink - Fellowship for support research intern experience in Canada top universities
-- CNPq - Scholarshop for supporting scientific initiation during undergraduation.
+- CNPq - Scholarship for supporting scientific initiation during undergrad studies.
 
 # Contact
 
