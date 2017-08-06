@@ -7,6 +7,8 @@ published: true
 
 I am a PhD Student in Information Retrieval at the [Delft University of Technology](http://tudelft.nl). Currently, I am member of the [Web Information System](http://wis.ewi.tudelft.nl) group, under the supervision of [Claudia Hauff](http://chauff.github.io). 
 
+I come from the city of Divinópolis, in the southeast of Brazil, where most of my family and friends still reside. 
+I had the opportunity to study in [Belo Horizonte](http://www.nytimes.com/2007/10/28/travel/28next.html), the "City of Bars", where I not only made a lot of good friends, but also started working with research in the information retrieval area. 
 
 
 ### Education
@@ -24,11 +26,17 @@ I am a PhD Student in Information Retrieval at the [Delft University of Technolo
 - Software Engineering Intern, Zunnit Technologies, Belo Horizonte Tech Park, Belo Horizonte, Brazil, Aug 2014 - Jun 2015
 - Research Intern, Mitacs Globalink ,[Université du Québec à Montréal (UQÀM)](http://uqam.ca), Montréal, Canada, May 2014 - Aug 2014
 
+### Grants and Scholarships
+
+- SIGIR/ICTIR'17 - Student travel grant
+- CAPES/CNPq - Scholarship for supporting Master's degree
+- Mitacs Globalink - Fellowship for support research intern experience in Canada top universities
+- CNPq - Scholarshop for supporting scientific initiation during undergraduation.
 
 # Contact
 
 ```
-Delft University of Technology - EWI/SCT/WIS
+Delft University of Technology - EWI/ST/WIS
 PO Box 5031
 2600 GA Delft
 The Netherlands
