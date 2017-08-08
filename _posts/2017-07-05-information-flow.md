@@ -6,7 +6,7 @@ date: '2017-08-07'
 ---
 Back in 2016, I decided to take an Information Theory course at UFMG lectured by Mário S. Alvim as part of the Master's coursework. In this course, Mário asks his students to write and present about a specific topic in information theory (not covered by him during the semester) or to model a specific topic in our research area using information theory. I decided to go with the latter, however, I chose a topic of Mário expertise, information flow and I wrote a short report on how we could model information flow in dynamic information retrieval. 
 
-Months later, Mário and I reviewed the report and together with my Master's supervisor, Rodrygo Santos, we decide to make this modeling available to the IR community. Thus, we got this study accepted as a short paper at ICTIR 2017:
+Months later, Mário and I reviewed the report and together with my Master's supervisor, Rodrygo Santos, we decided to make this modeling available to the IR community. Thus, we got this study accepted as a short paper at ICTIR 2017:
 
 ```bibtex
 @inproceedings{moraes2017ictir-b,
