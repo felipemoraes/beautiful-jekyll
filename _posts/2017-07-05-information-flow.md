@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: Information Flow in Dynamic Information Retrieval
+date: '2017-08-07'
 ---
 Back in 2016, I decided to take an Information Theory course at UFMG lectured by Mário S. Alvim as part of the Master's coursework. In this course, Mário asks his students to write and present about a specific topic in information theory (not covered by him during the semester) or to model a specific topic in our research area using information theory. I decided to go with the latter, however, I chose a topic of Mário expertise, information flow and I wrote a short report on how we could model information flow in dynamic information retrieval. 
 
@@ -22,4 +23,4 @@ Here's the abstract of our paper:
 
 > User interaction with a dynamic information retrieval (DIR) system can be seen as a cooperative effort towards finding relevant information. In this cooperation, the user provides the system with evidence of his or her information need (e.g., in the form of queries, query reformulations, relevance judgments, or clicks). In turn, the system provides the user with evidence of the available information (e.g., in the form of a set of candidate results). Throughout this conversational process, both user and system may reduce their uncertainty with respect to each other, which may ultimately help in finding the desired information. In this paper, we present an information-theoretic model to quantify the flow of information from users to DIR systems and vice versa. By employing channels with memory and feedback, we decouple the mutual information among the behavior of the user and that of the system into directed components. As a result, we are able to measure: (i) by how much the DIR system is capable of adapting to the user; and (ii) by how much the user is influenced by the results returned by the DIR system. We discuss implications of the proposed framework for the evaluation and optimization of DIR systems.
 
-I hope that this paper inspires some researchers in bringing information theory foundations to IR. 
+I hope that this paper inspires some researchers in bringing information theory foundations to IR.
