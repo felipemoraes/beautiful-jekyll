@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Information Flow in Dynamic Information Retrieval
 date: '2017-08-07'
 ---
