@@ -11,7 +11,7 @@ Months later, Mário and I reviewed the report and together with my Master's sup
 ```bibtex
 @inproceedings{moraes2017ictir-b,
   author = {Felipe Moraes and Mário S. Alvim and Rodrygo L. T. Santos},
-  title = {Modeling Information Flow in Information Retrieval},
+  title = {Modeling Information Flow in Dynamic Information Retrieval},
   booktitle = {Proceedings of the 3rd ACM International Conference on the 
     Theory of Information Retrieval},
   year = {2017},
