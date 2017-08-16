@@ -5,6 +5,7 @@ published: true
 ---
 <h2><b>2017</b></h2>
 <ul>
+  <li>Felipe Moraes. Supporting Complex Information Needs via Large-Scale Collaborative Search. In <em>Proceedings of the 7th PhD Symposium on Future Directions in Information Access</em>, Barcelona, Spain, 2017. [<a href="http://www.wis.ewi.tudelft.nl/fileadmin/wis/homepages/moraes/pubs/moraes2017ictir-a.pdf">pdf</a>]</li>
  	<li>Felipe Moraes, Rodrygo L.T. Santos, and Nivio Ziviani. On Effective Dynamic Search in Specialized Domains. In <em>Proceedings of the 3rd ACM International Conference on the Theory of Information Retrieval</em>, Amsterdam, The Netherlands, 2017. [<a href="http://www.wis.ewi.tudelft.nl/fileadmin/wis/homepages/moraes/pubs/moraes2017ictir-a.pdf">pdf</a>]</li>
  	<li>Felipe Moraes, Mário S. Alvim, and Rodrygo L.T. Santos. Modeling Information Flow in Dynamic Information Retrieval. In <em>Proceedings of the 3rd ACM International Conference on the Theory of Information Retrieval</em>, Amsterdam, The Netherlands, 2017. [<a href="http://www.wis.ewi.tudelft.nl/fileadmin/wis/homepages/moraes/pubs/moraes2017ictir-b.pdf">pdf</a>]</li>
  	<li>Felipe Moraes. On Effective Dynamic Search Systems. <em>Master’s thesis, Department of Computer Science, Universidade Federal de Minas Gerais</em>, Belo Horizonte, Brazil, 2017.[<a href="https://www.dcc.ufmg.br/pos/cursos/defesas/2069M.PDF">pdf</a>]</li>
