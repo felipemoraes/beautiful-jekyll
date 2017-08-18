@@ -27,7 +27,7 @@ I had the opportunity to study in [Belo Horizonte](http://www.nytimes.com/2007/1
 - Research Intern, Mitacs Globalink ,[Université du Québec à Montréal (UQÀM)](http://uqam.ca), Montréal, Canada, May 2014 - Aug 2014
 
 ### Grants and Scholarships
-
+- SIGIR/ESSIR'17 - Scholarship for Summer School 
 - SIGIR/ICTIR'17 - Student travel grant
 - CAPES/CNPq - Scholarship for supporting Master's degree
 - Mitacs Globalink - Fellowship for support research intern experience in Canada top universities
