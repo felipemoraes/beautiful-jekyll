@@ -7,8 +7,7 @@ published: true
 
 I am a PhD Student in Information Retrieval at the [Delft University of Technology](http://tudelft.nl). Currently, I am member of the [Web Information System](http://wis.ewi.tudelft.nl) group, under the supervision of [Claudia Hauff](http://chauff.github.io). 
 
-I come from the city of Divinópolis, in the southeast of Brazil, where most of my family and friends still reside. 
-I had the opportunity to study in [Belo Horizonte](http://www.nytimes.com/2007/10/28/travel/28next.html), the "City of Bars", where I not only made a lot of good friends, but also started working with research in the information retrieval area. 
+I come from the city of Divinópolis, in the southeast of Brazil. I complete most of my university studies in [Belo Horizonte](http://www.nytimes.com/2007/10/28/travel/28next.html) (BH, we don't have beaches, but we have bars), where I made a lot of good friends and started working with research in the information retrieval area. 
 
 
 ### Education
