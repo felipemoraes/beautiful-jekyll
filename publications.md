@@ -3,7 +3,6 @@ layout: page
 title: Publications
 published: true
 ---
-Dutch-Belgian Information Retrieval Workshop (DIR'16), 2016
 <h2><b>2017</b></h2>
 <ul>
   <li>Felipe Moraes. Supporting Complex Information Needs via Large-Scale Collaborative Search. In <em>Proceedings of the 7th PhD Symposium on Future Directions in Information Access</em>, Barcelona, Spain, 2017. [<a href="http://fmoraes.nl/documents/moraes2017fdia.pdf">pdf</a>]</li>
