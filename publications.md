@@ -5,7 +5,9 @@ published: true
 ---
 
 <h2><b>2018</b></h2>
+<ul>
 <li>Sindunuraga Rikarno Putra, <b>Felipe Moraes</b> and Claudia Hauff. SearchX: Empowering Collaborative Search Research. In <em>Proceedings of the 41st ACM SIGIR Conference on Research and Development in Information Retrieval</em>, Ann Arbor, Michigan, USA, 2018. [<a href="">pdf</a>]</li>
+ </ul>
 <h2><b>2017</b></h2>
 <ul>
   <li>Felipe Moraes. Supporting Complex Information Needs via Large-Scale Collaborative Search. In <em>Proceedings of the 7th PhD Symposium on Future Directions in Information Access</em>, Barcelona, Spain, 2017. [<a href="http://fmoraes.nl/documents/moraes2017fdia.pdf">pdf</a>]</li>
