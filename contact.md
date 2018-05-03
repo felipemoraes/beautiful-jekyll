@@ -38,7 +38,7 @@ I come from the city of Divinópolis, in the southeast of Brazil. I got most of 
 
 ### Hobbies
 - I'm a rower, member of the [Roeivereniging De Delftsche Sport](http://www.rvdds.nl/)
-- I'm a Dutch language and Spanish language leaner
+- I'm learning Dutch and Spanish
 
 # Contact
 
