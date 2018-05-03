@@ -25,6 +25,10 @@ I come from the city of Divinópolis, in the southeast of Brazil. I got most of 
 - Software Engineering Intern, Zunnit Technologies, Belo Horizonte Tech Park, Belo Horizonte, Brazil, Aug 2014 - Jun 2015
 - Research Intern, Mitacs Globalink ,[Université du Québec à Montréal (UQÀM)](http://uqam.ca), Montréal, Canada, May 2014 - Aug 2014
 
+### Activities 
+- Program Committee member of RecSys 2018
+- Program Committee member of CSCW 2018
+
 ### Grants and Scholarships
 - SIGIR/ESSIR'17 - Scholarship for Summer School 
 - SIGIR/ICTIR'17 - Student travel grant
