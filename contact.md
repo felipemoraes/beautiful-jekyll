@@ -30,6 +30,7 @@ I come from the city of Divinópolis, in the southeast of Brazil. I got most of 
 - Program Committee member of CSCW 2018
 
 ### Grants and Scholarships
+- SIGIR'18 - Student travel grant
 - SIGIR/ESSIR'17 - Scholarship for Summer School 
 - SIGIR/ICTIR'17 - Student travel grant
 - CAPES/CNPq - Scholarship for supporting Master's degree
