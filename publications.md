@@ -7,7 +7,7 @@ published: true
 <h2><b>2018</b></h2>
 <ul>
  <li>Sindunuraga Rikarno Putra, Kilian Grashoff, <b>Felipe Moraes</b> and Claudia Hauff. SearchX: Empowering Research on Collaborative Search. In <em>Proceedings of the 1st Design of Experimental Search  & Information REtrieval Systems </em>, Bertinoro, Italy, 2018. [<a href="">pdf</a>]</li>
-<li>Sindunuraga Rikarno Putra, <b>Felipe Moraes</b> and Claudia Hauff. SearchX: Empowering Collaborative Search Research. In <em>Proceedings of the 41st ACM SIGIR Conference on Research and Development in Information Retrieval</em>, Ann Arbor, Michigan, USA, 2018. [<a href="">pdf</a>]</li>
+<li>Sindunuraga Rikarno Putra, <b>Felipe Moraes</b> and Claudia Hauff. SearchX: Empowering Collaborative Search Research. In <em>Proceedings of the 41st ACM SIGIR Conference on Research and Development in Information Retrieval</em>, Ann Arbor, Michigan, USA, 2018. [<a href="http://fmoraes.nl/documents/moraes2018sigir.pdf">pdf</a>]</li>
  </ul>
 <h2><b>2017</b></h2>
 <ul>
