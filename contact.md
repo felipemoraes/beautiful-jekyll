@@ -26,9 +26,11 @@ I come from the city of Divinópolis, in the southeast of Brazil. I got most of 
 - Research Intern, Mitacs Globalink ,[Université du Québec à Montréal (UQÀM)](http://uqam.ca), Montréal, Canada, May 2014 - Aug 2014
 
 ### Activities 
+
+- Program Committee member of ECIR 2019
 - Program Committee member of CHI 2019
 - Program Committee member of ICWSM 2019
-- Program Committee member of RecSys 2018 (Best reviewer nominee)
+- Program Committee member of RecSys 2018 - Best reviewer award
 - Program Committee member of CSCW 2018
 
 ### Grants and Scholarships
