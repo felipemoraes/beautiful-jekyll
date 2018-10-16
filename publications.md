@@ -18,7 +18,7 @@ published: true
  	<li>Felipe Moraes, Mário S. Alvim, and Rodrygo L.T. Santos. Modeling Information Flow in Dynamic Information Retrieval. In <em>Proceedings of the 3rd ACM International Conference on the Theory of Information Retrieval</em>, Amsterdam, The Netherlands, 2017. [<a href="http://fmoraes.nl/documents/moraes2017ictir-b.pdf">pdf</a>]</li>
  	<li>Felipe Moraes. On Effective Dynamic Search Systems. <em>Master’s thesis, Department of Computer Science, Universidade Federal de Minas Gerais</em>, Belo Horizonte, Brazil, 2017.[<a href="http://fmoraes.nl/documents/moraes2017thesis.pdf">pdf</a>]</li>
 </ul>
-<h2>2016 and ealier</h2>
+<h2>2016 and earlier</h2>
 <ul>
  	<li>Felipe Moraes, Rodrygo L.T. Santos, and Nivio Ziviani. UFMG at the TREC 2016 Dynamic Domain track. In <em>Proceedings of the 25th Text </em>REtrieval<em> Conference, Gaithersburg</em>, MD, USA, 2016.[<a href="http://fmoraes.nl/documents/moraes2016trec.pdf">pdf</a>]</li>
  	<li>Felipe Moraes, Marisa Vasconcelos, Patrick Prado, Daniel Dalip, Jussara Almeida, and Marcos Gonçalves. Polarity Detection of Foursquare Tips. In<em> Proceedings of the 5th International Conference on Social Informatics</em> 2013,<em> </em>Kyoto, Japan, Brazil.[<a href="http://fmoraes.nl/documents/moraes2013socinfo.pdf">pdf</a>]</li>
