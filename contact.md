@@ -7,13 +7,13 @@ published: true
 
 I am a PhD Student in Information Retrieval at the [Delft University of Technology](http://tudelft.nl). Currently, I am member of the [Web Information System](http://wis.ewi.tudelft.nl) group, under the supervision of [Claudia Hauff](http://chauff.github.io). 
 
-I come from the city of Divinópolis, in the southeast of Brazil. I got most of my BSC and MSc degree while living in [Belo Horizonte](http://www.nytimes.com/2007/10/28/travel/28next.html), where I made a lot of good friends and started working with research in the information retrieval area. 
+I come from Divinópolis, a city in the southeast of Brazil. I got most of my BSC and MSc degree while living in [Belo Horizonte](http://www.nytimes.com/2007/10/28/travel/28next.html), where I made a lot of good friends and started working with research in the information retrieval area. 
 
 
 ### Education
 
 * PhD in Information Retrieval, [Delft University of Technology](http://tudelft.nl), Delft, The Netherlands, May 2017 - Present
-    * Research Topic: "Large-Scale Collaborative Search and Sensemaking" under supervision of [Claudia Hauff](http://chauff.github.io).
+    * Research Topic: "Searching for Complex Information Needs" under supervision of [Claudia Hauff](http://chauff.github.io).
 * MSc in Computer Science, [Federal University of Minas Gerais (UFMG)](http://ufmg.br), Belo Horizonte, Brazil, Aug 2015 - Apr 2017
     * MSc thesis: ["On Effective Dynamic Search Systems"](https://www.dcc.ufmg.br/pos/cursos/defesas/2069M.PDF), under supervision of [Rodrygo Santos](http://www.dcc.ufmg.br/~rodrygo), and co-supervision of  [Nivio Ziviani](http://www.dcc.ufmg.br/~nivio)
 * BSc in Computer Science, with honors, [Federal University of Minas Gerais (UFMG)](http://ufmg.br), Belo Horizonte, Brazil, Mar 2012 - Jul 2015
@@ -28,7 +28,6 @@ I come from the city of Divinópolis, in the southeast of Brazil. I got most of 
 ### Activities 
 
 - Program Committee member of ECIR 2019
-- Program Committee member of CHI 2019
 - Program Committee member of ICWSM 2019
 - Program Committee member of RecSys 2018 - Best reviewer award
 - Program Committee member of CSCW 2018
@@ -41,9 +40,11 @@ I come from the city of Divinópolis, in the southeast of Brazil. I got most of 
 - Mitacs Globalink - Fellowship for support research intern experience in Canada top universities
 - CNPq - Scholarship for supporting scientific initiation during undergrad studies.
 
-### Hobbies
+### Other stuff
 - I'm a rower, member of the [Roeivereniging De Delftsche Sport](http://www.rvdds.nl/)
-- I'm learning Dutch and Spanish
+- I speak Mineiro Portuguese
+- I'm a member of [Outsite - DWH Delft ](https://dwhdelft.nl/outsite/)
+- I love languages, my main focus now is the Dutch
 
 # Contact
 
