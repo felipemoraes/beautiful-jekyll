@@ -5,15 +5,15 @@ published: true
 
 # About me
 
-I am a PhD Student in Information Retrieval at the [Delft University of Technology](http://tudelft.nl). Currently, I am member of the [Web Information System](http://wis.ewi.tudelft.nl) group, under the supervision of [Claudia Hauff](http://chauff.github.io). 
+I am a PhD Student in Computer Science (IR, NLP, ML)  at the [Delft University of Technology (TU Delft)](http://tudelft.nl) under the supervision of [Claudia Hauff](http://chauff.github.io). 
 
-I come from Divinópolis, a city in the southeast of Brazil. I got most of my BSC and MSc degree while living in [Belo Horizonte](http://www.nytimes.com/2007/10/28/travel/28next.html), where I made a lot of good friends and started working with research in the information retrieval area. 
+I come from Divinópolis, a city in the southeast of Brazil. I got most of my BSC and MSc degree while living in [Belo Horizonte](http://www.nytimes.com/2007/10/28/travel/28next.html), where I started working with research in the information retrieval field. 
 
 
 ### Education
 
-* PhD in Information Retrieval, [Delft University of Technology](http://tudelft.nl), Delft, The Netherlands, May 2017 - Present
-    * Research Topic: "Searching for Complex Information Needs" under supervision of [Claudia Hauff](http://chauff.github.io).
+* PhD in Computer Science, [Delft University of Technology (TU Delft)](http://tudelft.nl), Delft, The Netherlands, May 2017 - Present
+    * Research Topic: "Search for Complex Information Needs" under supervision of [Claudia Hauff](http://chauff.github.io).
 * MSc in Computer Science, [Federal University of Minas Gerais (UFMG)](http://ufmg.br), Belo Horizonte, Brazil, Aug 2015 - Apr 2017
     * MSc thesis: ["On Effective Dynamic Search Systems"](https://www.dcc.ufmg.br/pos/cursos/defesas/2069M.PDF), under supervision of [Rodrygo Santos](http://www.dcc.ufmg.br/~rodrygo), and co-supervision of  [Nivio Ziviani](http://www.dcc.ufmg.br/~nivio)
 * BSc in Computer Science, with honors, [Federal University of Minas Gerais (UFMG)](http://ufmg.br), Belo Horizonte, Brazil, Mar 2012 - Jul 2015
@@ -42,9 +42,8 @@ I come from Divinópolis, a city in the southeast of Brazil. I got most of my BS
 
 ### Other stuff
 - I'm a rower, member of the [Roeivereniging De Delftsche Sport](http://www.rvdds.nl/)
-- I speak Mineiro Portuguese
-- I'm a member of [Outsite - DWH Delft ](https://dwhdelft.nl/outsite/)
-- I love languages, my main focus now is the Dutch
+- I'm a member of [Outsite - DWH Delft ](https://dwhdelft.nl/en/outsite/)
+- My native language is the beautiful [Mineiro Portuguese](https://en.wikipedia.org/wiki/Mineiro)
 
 # Contact
 
@@ -54,6 +53,5 @@ PO Box 5031
 2600 GA Delft
 The Netherlands
 
-Office: HB 08.120
 Email: f.moraes[at]tudelft.nl or fe.moraesg[at]gmail.com
 ```
