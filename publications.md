@@ -6,6 +6,7 @@ published: true
 
 <h2><b>2019</b></h2>
 <ul>
+  <li><b>Felipe Moraes</b> and Claudia Hauff. node-indri: moving the Indri toolkit to the modern Web stack. In <em> Proceedings of the 41st European Conference on Information Retrieval (ECIR) </em>, Cologne, Germany, 2019. [<a href="http://fmoraes.nl/documents/moraes2019ecir.pdf">pdf</a>]</li> 
  <li> Daan Rennings, <b>Felipe Moraes</b> and Claudia Hauff. An Axiomatic Approach to Diagnosing Neural IR Models. In <em> Proceedings of the 41st European Conference on Information Retrieval (ECIR) </em>, Cologne, Germany, 2019. [<a href="">pdf</a>]</li> 
  
 </ul>
