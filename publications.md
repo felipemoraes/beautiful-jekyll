@@ -4,6 +4,11 @@ title: Publications
 published: true
 ---
 
+<h2><b>2019</b></h2>
+<ul>
+ <li> Daan Rennings, <b>Felipe Moraes</b> and Claudia Hauff. An Axiomatic Approach to Diagnosing Neural IR Models. In <em> Proceedings of the 41st European Conference on Information Retrieval (ECIR) </em>, Cologne, Germany, 2019. [<a href="">pdf</a>]</li> 
+ 
+</ul>
 <h2><b>2018</b></h2>
 <ul>
  <li><b>Felipe Moraes</b>, Kilian Grashoff and Claudia Hauff. On
