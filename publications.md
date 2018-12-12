@@ -6,14 +6,13 @@ published: true
 
 <h2><b>2019</b></h2>
 <ul>
+   <li><b>Felipe Moraes</b>, Kilian Grashoff and Claudia Hauff. On the Impact of Group Size on Collaborative Search Effectiveness. <em>Information Retrieval Journal</em>, 2019. [<a href="">pdf</a>]</li> 
   <li><b>Felipe Moraes</b> and Claudia Hauff. node-indri: moving the Indri toolkit to the modern Web stack. In <em> Proceedings of the 41st European Conference on Information Retrieval (ECIR) </em>, Cologne, Germany, 2019. [<a href="http://fmoraes.nl/documents/moraes2019ecir.pdf">pdf</a>]</li> 
  <li> Daan Rennings, <b>Felipe Moraes</b> and Claudia Hauff. An Axiomatic Approach to Diagnosing Neural IR Models. In <em> Proceedings of the 41st European Conference on Information Retrieval (ECIR) </em>, Cologne, Germany, 2019. [<a href="">pdf</a>]</li> 
  
 </ul>
 <h2><b>2018</b></h2>
 <ul>
- <li><b>Felipe Moraes</b>, Kilian Grashoff and Claudia Hauff. On
-the Impact of Group Size on Collaborative Search Effectiveness. To appear in <em>Information Retrieval Journal</em>, 2018. [<a href="">pdf</a>]</li> 
  <li><b>Felipe Moraes</b>, Sindunuraga Rikarno Putra and Claudia Hauff. Contrasting search as a learning activity with instructor-designed learning. In <em> Proceedings of 27th ACM International Conference on Information and Knowledge Management (CIKM) </em>, Turin, Italy, 2018. [<a href="http://fmoraes.nl/documents/moraes2018cikm.pdf">pdf</a>]</li>
  <li>Sindunuraga Rikarno Putra, Kilian Grashoff, <b>Felipe Moraes</b> and Claudia Hauff. On the Development of a Collaborative Search System. In <em>Proceedings of the 1st Design of Experimental Search  & Information REtrieval Systems </em>, Bertinoro, Italy, 2018. [<a href="">pdf</a>]</li>
 <li>Sindunuraga Rikarno Putra, <b>Felipe Moraes</b> and Claudia Hauff. SearchX: Empowering Collaborative Search Research. In <em>Proceedings of the 41st ACM SIGIR Conference on Research and Development in Information Retrieval</em>, Ann Arbor, Michigan, USA, 2018. [<a href="http://fmoraes.nl/documents/moraes2018sigir.pdf">pdf</a>]</li>
